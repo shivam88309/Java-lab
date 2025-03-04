@@ -1,5 +1,5 @@
 //value changing
-class code5 {
+ class code5 {
     int x= 5;
     public static void main(String[]args){
         code5 ak =new code5();
